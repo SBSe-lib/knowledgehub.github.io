@@ -230,6 +230,10 @@ input {
 
 /* Left Sidebar: Newsletter Signup Box */
 
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
 #newsletter {
 	margin-bottom: 5px;
 	padding: 5px 5px 15px;
