@@ -300,10 +300,6 @@ input {
 	list-style-type: none;
 }
 
-#categories li:nth-child(even) {
-    background-color: #dddddd;
-}
-
 #categories li {
 	width: 242px;
 	height: 21px;
