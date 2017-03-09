@@ -68,8 +68,8 @@ input {
 #page_header {
 	width: 1345PX;
 	height: 175px;
-	color: blue;
-	background:blue url() no-repeat top left;
+	color: #28AEDB;
+	background:#28AEDB url() no-repeat top left;
 	overflow: hidden;
 }
 
