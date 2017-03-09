@@ -527,7 +527,7 @@ tr:nth-child(even) {
 #page_footer {
 	width: 1345px;
 	float:right;
-	border-top:#993300 1px solid;
+	border-top:white 1px solid;
 	background-color:#28AEDB;
 }
 
