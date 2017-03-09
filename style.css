@@ -536,13 +536,13 @@ tr:nth-child(even) {
 	float: right;
 	width: 1345px;
 	height: 50px;
-	color: #9595c2;
+	color: white;
 	text-align: center;
 	
 }
 
 #powered_by a {
-	color: #9595c2;
+	color: white;
 }
 
 #product_brands {
