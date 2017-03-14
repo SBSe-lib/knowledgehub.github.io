@@ -170,12 +170,12 @@ input {
 #page_menu {
 	margin-bottom: 1px;
 	width: 1345px;
-	height: 25px;
+	height: 30px;
 }
 
 #page_menu ul {
 	width: 1345px;
-	height: 25px;
+	height: 30px;
 	list-style-type: none;
 	overflow: hidden;
 }
@@ -183,7 +183,7 @@ input {
 #page_menu li {
 	margin-right: 1px;
 	width: 242px;
-	height: 25px;
+	height: 30px;
 	float: left;
 	background: url('images/menu_background.gif') repeat-x 0px 0px;
 	overflow: hidden;
