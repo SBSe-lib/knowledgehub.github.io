@@ -69,7 +69,7 @@ input {
 	width: 1345PX;
 	height: 175px;
 	color: #28AEDB;
-	background:#28AEDB url() no-repeat top left;
+	background:#28AEDB url() no-repeat top center;
 	overflow: hidden;
 }
 
