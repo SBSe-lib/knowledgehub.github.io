@@ -70,6 +70,7 @@ input {
 	height: 175px;
 	color: #28AEDB;
 	border-top:white 1px solid;
+	float: right;
 	background:#28AEDB url() no-repeat top center;
 	overflow: hidden;
 }
