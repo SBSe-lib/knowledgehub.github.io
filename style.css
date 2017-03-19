@@ -69,9 +69,8 @@ input {
 	width: 1345PX;
 	height: 175px;
 	color: #28AEDB;
-	border-top:white 1px solid;
-	float: right;
-	background:#28AEDB url() no-repeat top right;
+	float: center;
+	background:#28AEDB url() no-repeat top left;
 	overflow: hidden;
 }
 
