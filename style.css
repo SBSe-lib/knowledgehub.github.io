@@ -349,8 +349,8 @@ input {
 /* Main Content Area */
 
 #main_content {
-	margin-right: 0px;
-	width: 1000px;
+	margin-right: 25px;
+	width: 1030px;
 	text-align: left;
 	float: right;
 }
